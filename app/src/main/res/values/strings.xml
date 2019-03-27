@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DevProfile</string>
+    <string name="devslopes">Devslopes</string>
+    <string name="customize_dashboard">Customize Dashboard</string>
 </resources>
